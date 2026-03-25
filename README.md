@@ -1,16 +1,28 @@
-## Hi there 👋
+Victoria Ignatova
 
-<!--
-**vickyignatova/vickyignatova** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Science student with interests in **UI/UX design** and **programming**.
 
-Here are some ideas to get you started:
+My GitHub includes both design-focused work and development projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What I work on
+- UI/UX projects
+- Front-end development
+- Programming projects
+- Student projects
+
+## Tools and technologies
+- Figma
+- HTML, CSS
+- Git and GitHub
+- C++
+
+## Featured work
+- UI/UX case studies
+- programming assignments and personal projects
+
+## About me
+I am currently studying **Computer Science** and continuously improving my skills in design and development.
+
+## Contact
+- GitHub: [vickyignatova](https://github.com/vickyignatova)
+- Email: victorag.ignatova@gmail.com
