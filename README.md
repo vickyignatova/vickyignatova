@@ -1,4 +1,4 @@
-Victoria Ignatova
+##Victoria Ignatova
 
 Computer Science student with interests in **UI/UX design** and **programming**.
 
