@@ -21,7 +21,7 @@ My GitHub includes both design-focused work and development projects.
 - programming assignments and personal projects
 
 ### Book Cover Design Project
-[![Book Cover Design Project](https://raw.githubusercontent.com/vickyignatova/book-cover-design/main/previews/Book_Mockup_final.jpg)](https://github.com/vickyignatova/book-cover-design)
+[![Book Cover Design Project](https://raw.githubusercontent.com/vickyignatova/Book-Photoshop-Project/main/previews/Book_Mockup_final.jpg)](https://github.com/vickyignatova/book-cover-design)
 
 Book cover design project created in **Adobe Photoshop** for the course **Design Fundamentals** at **SoftUni Creative**.
 
