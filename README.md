@@ -23,7 +23,7 @@ My GitHub includes both design-focused work and development projects.
 #### [Bulrang Website Redesign](https://github.com/vickyignatova/Bulrang-Website-Redesign)
 A Figma-based redesign project focused on improving the usability, structure, and presentation of key services.
 
-####[SofiaTalks Website](https://github.com/vickyignatova/SofiaTalks-Website)
+#### [SofiaTalks Website](https://github.com/vickyignatova/SofiaTalks-Website)
 Official SofiaTalks website, co-designed and built by me in Webflow
 
 #### [Travelio Destination App](https://github.com/vickyignatova/Travelio-Destination-App)
